@@ -113,7 +113,7 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 
 ## Must know
 
-* Proficient in a language
+* Proficient in at least two languages
 * Different architectural patterns (monoliths, SOA, microservices, etc) and the case for each of them
 * The case for DevOps, and regularly use that knowledge with your team
 * What a 10x developer is, and why being a good team lead who enables others is better than being an excellent lone developer
